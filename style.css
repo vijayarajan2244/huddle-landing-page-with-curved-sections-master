@@ -477,6 +477,7 @@
 @media screen and (min-width:280px) and (max-width:576px) {
 
     .huddle{
+        overflow-x: hidden;
         margin-left: -30px;
     }
     .top{
